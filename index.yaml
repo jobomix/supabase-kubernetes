@@ -2,31 +2,31 @@ apiVersion: v1
 entries:
   supabase:
   - apiVersion: v2
-    created: "2025-01-21T16:39:48.305473492Z"
+    created: "2025-01-21T17:25:51.50343318Z"
     description: The open source Firebase alternative.
-    digest: 3e7e7c082db0d831a745bc465a46649250a6c8f96280492221cc59ab7cb647bb
+    digest: 83775364d7ff27102bd1eabd5c7be6165fb4db7cc907c14c4796726946dd9712
     icon: https://avatars.githubusercontent.com/u/54469796?s=280&v=4
     name: supabase
     type: application
     urls:
-    - https://supabase-community.github.io/supabase-kubernetes/build/supabase-0.1.3.tgz
+    - https://jobomix.github.io/supabase-kubernetes/build/supabase-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
-    created: "2025-01-21T16:39:48.303868102Z"
+    created: "2025-01-21T17:25:51.500973082Z"
     description: The open source Firebase alternative.
     digest: a0d6c0627c049642f3a9a1d068ecc4601d87c26d0326b47422223a7660424e31
     name: supabase
     type: application
     urls:
-    - https://supabase-community.github.io/supabase-kubernetes/build/supabase-0.0.2.tgz
+    - https://jobomix.github.io/supabase-kubernetes/build/supabase-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v2
-    created: "2025-01-21T16:39:48.302349323Z"
+    created: "2025-01-21T17:25:51.499931659Z"
     description: The open source Firebase alternative.
     digest: 651547b54edc5cfbac1ed39cb42fc574ee766ff8c1c61aa6cedef84d2faa358f
     name: supabase
     type: application
     urls:
-    - https://supabase-community.github.io/supabase-kubernetes/build/supabase-0.0.1.tgz
+    - https://jobomix.github.io/supabase-kubernetes/build/supabase-0.0.1.tgz
     version: 0.0.1
-generated: "2025-01-21T16:39:48.300818987Z"
+generated: "2025-01-21T17:25:51.498770924Z"
