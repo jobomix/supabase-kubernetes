@@ -2,7 +2,17 @@ apiVersion: v1
 entries:
   supabase:
   - apiVersion: v2
-    created: "2025-01-30T11:07:33.834208113Z"
+    created: "2025-01-30T11:35:35.72691609Z"
+    description: The open source Firebase alternative.
+    digest: c4552cb955fc264afe553a51827236b8bd92f9d00eca27fe3c7799dd4ceb06f4
+    icon: https://avatars.githubusercontent.com/u/54469796?s=280&v=4
+    name: supabase
+    type: application
+    urls:
+    - https://jobomix.github.io/supabase-kubernetes/build/supabase-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
+    created: "2025-01-30T11:35:35.724404068Z"
     description: The open source Firebase alternative.
     digest: cf3297864146458baef08dd91291a72867945b8b21f5e1b3ba5a6e4680f017e2
     icon: https://avatars.githubusercontent.com/u/54469796?s=280&v=4
@@ -12,9 +22,9 @@ entries:
     - https://jobomix.github.io/supabase-kubernetes/build/supabase-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
-    created: "2025-01-30T11:07:33.832632823Z"
+    created: "2025-01-30T11:35:35.722650111Z"
     description: The open source Firebase alternative.
-    digest: 736eecf80ccdc932cae41282e595972a6e5c62593b22ec0b24757b16cba3c0d8
+    digest: 83775364d7ff27102bd1eabd5c7be6165fb4db7cc907c14c4796726946dd9712
     icon: https://avatars.githubusercontent.com/u/54469796?s=280&v=4
     name: supabase
     type: application
@@ -22,7 +32,7 @@ entries:
     - https://jobomix.github.io/supabase-kubernetes/build/supabase-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
-    created: "2025-01-30T11:07:33.831045928Z"
+    created: "2025-01-30T11:35:35.721042024Z"
     description: The open source Firebase alternative.
     digest: a0d6c0627c049642f3a9a1d068ecc4601d87c26d0326b47422223a7660424e31
     name: supabase
@@ -31,7 +41,7 @@ entries:
     - https://jobomix.github.io/supabase-kubernetes/build/supabase-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v2
-    created: "2025-01-30T11:07:33.829844002Z"
+    created: "2025-01-30T11:35:35.719520456Z"
     description: The open source Firebase alternative.
     digest: 651547b54edc5cfbac1ed39cb42fc574ee766ff8c1c61aa6cedef84d2faa358f
     name: supabase
@@ -39,4 +49,4 @@ entries:
     urls:
     - https://jobomix.github.io/supabase-kubernetes/build/supabase-0.0.1.tgz
     version: 0.0.1
-generated: "2025-01-30T11:07:33.827894134Z"
+generated: "2025-01-30T11:35:35.717026726Z"
