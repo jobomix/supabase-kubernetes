@@ -21,6 +21,10 @@ spec:
       labels:
         {{- include "supabase.auth.selectorLabels" . | nindent 8 }}
     spec:
+      hostAliases:
+      - ip: "172.30.0.1"
+        hostnames:
+        - "wireguard-ubuntu-4gb-nbg1-1"
       {{- with .Values.auth.imagePullSecrets }}
       imagePullSecrets:
         {{- toYaml . | nindent 8 }}
